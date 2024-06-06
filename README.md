@@ -1,2 +1,2 @@
 # calculator
-Here is a the final project from TOP.
+Here is a the final project from TOP foundation.
